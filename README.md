@@ -15,7 +15,7 @@
 
 ### *Example:*
 ```
-./a.out 5 5 
+%>./a.out 5 5 
 ABBBA
 B   B
 B   B
