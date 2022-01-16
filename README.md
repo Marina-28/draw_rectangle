@@ -1,5 +1,5 @@
 # :black_square_button: Draw_rectangle :black_square_button:
-## The one of first School21's projects. The program prints a rectangle following certain rules.
+### The one of first School21's projects. The program prints a rectangle following certain rules.
 
 ### *Rules:*
 * Top corners - ***A***
