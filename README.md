@@ -8,7 +8,7 @@
 
 ### *Launch:*
 ```
-./a.out x y 
+%>./a.out x y 
 ```
 *Comment: x and y some int numbers*
 
